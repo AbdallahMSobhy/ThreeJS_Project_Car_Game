@@ -1,0 +1,31 @@
+#Outer_body {
+  background-image: url("./Assets/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Game-bg {
+  background-image: url("./Assets/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#Canvas_div {
+  display: none;
+}
+#Score {
+  z-index: 2;
+  left: 20%;
+  position: fixed;
+  object-position: center;
+}
+.small_image {
+  width: 250px;
+  height: 200px;
+}
+#Win {
+  z-index: 7;
+  position: fixed;
+  object-position: center;
+  left: 30%;
+  top: 0%;
+  display: none;
+}
