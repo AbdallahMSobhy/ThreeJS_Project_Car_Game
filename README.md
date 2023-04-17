@@ -8,8 +8,7 @@ Car game in which you drive the car to collect points.
   - Three.js
   - Bootstrap
   - Vite.js
-  
-  Html5, CSS3, JS, Bootstrap, Vite.js and Three.js
+
 
 ## Description
   This game starts with a form to get your name and your favourite camera mode. Inside the game you can move the car forword and backword 
